@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "hdgarrood-test-c": "https://github.com/hdgarrood/hdgarrood-test-c-fork"
+    "hdgarrood-test-c": "git://github.com/hdgarrood/hdgarrood-test-c-fork"
   }
 }
