@@ -17,5 +17,6 @@
   ],
   "dependencies": {
     "hdgarrood-test-c": "git://github.com/hdgarrood/hdgarrood-test-c-fork"
-  }
+  },
+  "version": "1.0.0"
 }
